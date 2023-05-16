@@ -1,1 +1,2 @@
-"#Game of life\r\nnothing special, at least yet" 
+#Game of life
+nothing special, at least yet
